@@ -1,4 +1,4 @@
-### Hi I'm devedux 👋
+### Hi there 👋👋👋
 
 - 🔭 I’m currently working on Terapygo.
 - 🌱 I’m currently learning everything.
@@ -8,5 +8,5 @@
 - 😄 Pronouns: [@devedux](https://www.linkedin.com/in/cristhian-laurente-016a88207/) or say 👋 on Email at [Devedux](mailto:devedux@gmail.com)
 - ⚡ Fun fact: 🎮,🎧 & 🎤
 
-### [devedux's GitHub stats](https://github-readme-stats.vercel.app/api?username=devedux&hide=contribs,prs&theme=blueberry)
+### GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=devedux&hide=contribs,prs&theme=blueberry" />
