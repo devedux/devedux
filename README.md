@@ -11,4 +11,4 @@
 ### GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=devedux&hide=contribs,prs&theme=blueberry" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devedux&theme=tokyonight&layout=compact&exclude_repo=github-readme-stats,devedux.github.io" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devedux&theme=tokyonight&layout=compact" /> 
