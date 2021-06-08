@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋
 
-- 🔭 I’m currently working on Terapygo.
+- 🔭 I'm currently studying at Codeable.
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me about NextJs, Firebase, Redux, NodeJS and VanillaJS.
