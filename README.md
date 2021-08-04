@@ -9,6 +9,5 @@
 - ⚡ Fun fact: 🎮,🎧 & 🎤
 
 ### GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=devedux&hide=contribs,prs&theme=blueberry" />
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devedux&theme=tokyonight&layout=compact" /> 
