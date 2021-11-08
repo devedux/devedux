@@ -8,7 +8,7 @@
 </br>
 </br>
 
-Hi, I'm Cristhian Laurente, a Full Stack Developer 🚀 from Peru, currently, I'm student as a Full Stack Developer <img src='https://emoji.slack-edge.com/TEH2PTB37/codeable_in_black/4788c50bd3b7594f.png' alt='codeable icon' width="22px" /> [@Codeable](https://www.codeable.la/). Beside's programming, I enjoy watch movies, and dancing.
+Hi, I'm Cristhian Laurente, a Full Stack Developer 🚀 from Peru, currently, I'm student as a Full Stack Developer <code><img src='https://emoji.slack-edge.com/TEH2PTB37/codeable_in_black/4788c50bd3b7594f.png' alt='codeable icon' height="22" width="22px" /></code> [@Codeable](https://www.codeable.la/). Beside's programming, I enjoy watch movies, and dancing.
 
 **Languages and Tools:**  
 
