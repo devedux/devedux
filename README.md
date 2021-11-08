@@ -7,16 +7,20 @@
 </a>
 </br>
 </br>
-<img src='https://emoji.slack-edge.com/TEH2PTB37/codeable_in_black/4788c50bd3b7594f.png' alt='codeable icon' width="22px" />
-Hi, I'm Cristhian Laurente, a Full Stack Developer 🚀 from Peru, currently, I'm student as a Full Stack Developer 👨🏽‍💼 [@Codeable](https://www.rankmi.com/). Beside's programming, I enjoy watch movies and traveling.
 
+Hi, I'm Cristhian Laurente, a Full Stack Developer 🚀 from Peru, currently, I'm student as a Full Stack Developer <img src='https://emoji.slack-edge.com/TEH2PTB37/codeable_in_black/4788c50bd3b7594f.png' alt='codeable icon' width="22px" /> [@Codeable](https://www.codeable.la/). Beside's programming, I enjoy watch movies, and dancing.
 
-Cristhian Laurente | TwitterCarlos's LinkdeINCarlos's HackerRank
+**Languages and Tools:**  
 
-Hi, I'm Carlos Sandoval, a Full Stack Developer rocket from Peru, currently, I'm working as a Full Stack Developer 👨🏽‍💼 @Rankmi. Beside's programming, I enjoy watch movies and traveling.
-
-- 😄 Pronouns: [@devedux](https://www.linkedin.com/in/cristhian-laurente-016a88207/) or say 👋 on Email at [Devedux](mailto:devedux@gmail.com)
-- ⚡ Fun fact: 🎮,🎧 & 🎤
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ### GitHub Stats:
 
