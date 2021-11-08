@@ -7,7 +7,7 @@
 </a>
 </br>
 </br>
-<img src='https://emoji.slack-edge.com/TEH2PTB37/codeable_in_black/4788c50bd3b7594f.png' alt='codeable icon' />
+<img src='https://emoji.slack-edge.com/TEH2PTB37/codeable_in_black/4788c50bd3b7594f.png' alt='codeable icon' width="22px" />
 Hi, I'm Cristhian Laurente, a Full Stack Developer 🚀 from Peru, currently, I'm student as a Full Stack Developer 👨🏽‍💼 [@Codeable](https://www.rankmi.com/). Beside's programming, I enjoy watch movies and traveling.
 
 
